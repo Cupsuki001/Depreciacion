@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gX4PzyIIB5V0PEgsvPpzawIYurZp3q6y1CsvdTG3rsAracNYQvjUEmnIHCs4Y1sSLANH4Bh/54tJh1eBld+VOQ==",
+  "dgSpecHash": "dDlgCpRx/WOmcclAo1AlMs3cPNfkPYcOWgAkKzLONSkW35NACO8bAEbFkqwVzkZnsx8fdePVnG/xLaZZksEhGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sistema2-17\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\DELL 5590\\Downloads\\Depreciacion-main\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
